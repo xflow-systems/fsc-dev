@@ -1,3 +1,5 @@
 # FSC - Full Self Contained Dev Environment
 
-Deletes (if they exist) and creates the user `fsc-disposable` and (WARNING) their associated home directory.
+First, install guix.
+
+If you get a mounting error: [look at this thread](https://lists.defectivebydesign.org/archive/html/help-guix/2023-10/msg00100.html).
